@@ -1,6 +1,5 @@
 package com.example.springbootshirodemo.config;
 
-import com.example.springbootshirodemo.shiro.MyRealm;
 import org.apache.shiro.mgt.SecurityManager;
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;
 import org.apache.shiro.web.mgt.DefaultWebSecurityManager;

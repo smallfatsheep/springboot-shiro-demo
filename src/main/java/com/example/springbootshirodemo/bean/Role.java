@@ -41,13 +41,4 @@ public class Role {
         this.rolename = rolename;
     }
 
-   /* @Override
-    public String toString() {
-        return "Role{" +
-                "id=" + id +
-                ", rolename='" + rolename + '\'' +
-                ", users=" + users +
-                ", permissions=" + permissions +
-                '}';
-    }*/
 }

@@ -30,11 +30,4 @@ public class Permission {
     public Permission() {
     }
 
-    @Override
-    public String toString() {
-        return "Permission{" +
-                "id=" + id +
-                ", permissionname='" + permissionname + '\'' +
-                '}';
-    }
 }
